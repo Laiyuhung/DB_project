@@ -1,9 +1,0 @@
-.nav-item {
-  display: flex !important;
-  align-items: center;
-  gap: 3px;
-}
-.navbar-brand{
-  display: flex;
-  align-items: center;
-}
